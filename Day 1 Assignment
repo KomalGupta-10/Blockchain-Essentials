@@ -1,0 +1,21 @@
+1.What is your understanding of Blockchain??
+It is a mix of technology of distributed database and cryptography. It stores transactions chronologically. 
+
+2. What are the core problems that Blockchain is trying to solve?
+Data loss due to involvement of third party,
+Authencity
+Security
+
+3. What are the few features which Blockchain will give u?
+Blockchain features are:
+-Immutable
+-Decentralized
+-Enhanced Security
+
+4. What all things does a block contain?
+Block contains transactional record, address of the previous block, a timestamp
+and key.
+
+5.How is the verifiability of Block chain has been attained?
+ We are using Hash Function to attain the verifiability. Suppose we have a file which contains previous hash key and new data, now we will distribute that file to our network and we will tell them to make a new hash key on their own. Then, we will share our new hash to our group and we will ask them to verify the key. If someone is getting different hash from others then we will able to change his/her data. This is how we verify our networks data by means of hash and this process is known as verifiability.
+
